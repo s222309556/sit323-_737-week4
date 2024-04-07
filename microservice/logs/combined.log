@@ -1,0 +1,8 @@
+{"level":"info","message":{"timestamp":"2024-04-07T02:43:45.036Z"},"service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 addition 3","service":"calculator-microservice"}
+{"level":"info","message":{"ip":"::1","timestamp":"2024-04-07T02:44:32.590Z"},"service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 addition 3","service":"calculator-microservice"}
+{"level":"info","message":{"ip":"::1","timestamp":"2024-04-07T02:46:29.065Z"},"service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 addition 3","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 addition 3","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested: 2 subtraction 3","service":"calculator-microservice"}
